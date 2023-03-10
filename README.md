@@ -1,2 +1,2 @@
-My first readme Updated
-README uptodate from github.com
+My first readme Up dated
+README up to date from github.com
